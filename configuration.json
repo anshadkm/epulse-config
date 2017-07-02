@@ -15,8 +15,18 @@
     "category": "Technology"
   },
   {
+    "name": "Cult Of Mac",
+    "url": "https://www.cultofmac.com/feed/",
+    "category": "Technology"
+  },
+  {
     "name": "TechCrunch",
     "url": "https://techcrunch.com/feed/",
+    "category": "Technology"
+  },
+  {
+    "name": "XDA Developers",
+    "url": "https://www.xda-developers.com/feed/",
     "category": "Technology"
   },
   {
