@@ -6,12 +6,12 @@
   },
   {
     "name": "Engadget",
-    "url": "http://www.engadget.com/rss.xml",
+    "url": "https://www.engadget.com/rss.xml",
     "category": "Technology"
   },
   {
     "name": "Lifehacker",
-    "url": "http://lifehacker.com/rss",
+    "url": "https://lifehacker.com/rss",
     "category": "Technology"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Gizmodo",
-    "url": "http://gizmodo.com/rss",
+    "url": "https://gizmodo.com/rss",
     "category": "Technology"
   }
 ]
