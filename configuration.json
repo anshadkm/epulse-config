@@ -1,0 +1,27 @@
+[
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "Technology"
+  },
+  {
+    "name": "Engadget",
+    "url": "http://www.engadget.com/rss.xml",
+    "category": "Technology"
+  },
+  {
+    "name": "Lifehacker",
+    "url": "http://lifehacker.com/rss",
+    "category": "Technology"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "category": "Technology"
+  },
+  {
+    "name": "Gizmodo",
+    "url": "http://gizmodo.com/rss",
+    "category": "Technology"
+  }
+]
