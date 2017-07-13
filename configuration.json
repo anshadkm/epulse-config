@@ -33,5 +33,10 @@
     "name": "Gizmodo",
     "url": "https://gizmodo.com/rss",
     "category": "Technology"
+  },
+  {
+    "name": "Khaleej Times",
+    "url": "http://www.khaleejtimes.com/services/rss/uae/rss.xml",
+    "category": "News"
   }
 ]
