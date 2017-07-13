@@ -38,5 +38,10 @@
     "name": "Khaleej Times",
     "url": "http://www.khaleejtimes.com/services/rss/uae/rss.xml",
     "category": "News"
+  },
+  {
+    "name": "Marunadan Malayali",
+    "url": "http://fetchrss.com/rss/5966ef008a93f824148b4567519476941.xml",
+    "category": "News"
   }
 ]
