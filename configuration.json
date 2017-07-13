@@ -45,8 +45,8 @@
     "category": "News"
   },
   {
-    "name": "NDTV",
-    "url": "http://feeds.feedburner.com/ndtvnews-top-stories?format=xml",
-    "category": "News"
+    "name": "NDTV Gadgets",
+    "url": "http://gadgets.ndtv.com/rss/feeds",
+    "category": "Technology"
   }
 ]
