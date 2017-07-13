@@ -43,5 +43,10 @@
     "name": "Khaleej Times",
     "url": "http://www.khaleejtimes.com/services/rss/uae/rss.xml",
     "category": "News"
+  },
+  {
+    "name": "NDTV",
+    "url": "http://feeds.feedburner.com/ndtvnews-top-stories?format=xml",
+    "category": "News"
   }
 ]
