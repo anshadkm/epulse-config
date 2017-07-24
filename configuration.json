@@ -53,5 +53,10 @@
     "name": "CNN Top Stories",
     "url": "http://rss.cnn.com/rss/edition.rss?fmt=xml",
     "category": "News"
+  },
+  {
+    "name": "Hackaday",
+    "url": "http://hackaday.com/feed/",
+    "category": "DIY"
   }
 ]
