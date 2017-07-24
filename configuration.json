@@ -58,5 +58,10 @@
     "name": "Hackaday",
     "url": "http://hackaday.com/feed/",
     "category": "DIY"
+  },
+  {
+    "name": "How-To Geek",
+    "url": "https://www.howtogeek.com/feed/",
+    "category": "DIY"
   }
 ]
