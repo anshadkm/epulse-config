@@ -48,5 +48,10 @@
     "name": "NDTV Gadgets",
     "url": "http://gadgets.ndtv.com/rss/feeds",
     "category": "Technology"
+  },
+  {
+    "name": "CNN Top Stories",
+    "url": "http://rss.cnn.com/rss/edition.rss?fmt=xml",
+    "category": "News"
   }
 ]
