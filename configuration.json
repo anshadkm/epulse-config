@@ -2,66 +2,79 @@
   {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml",
-    "category": "Technology"
+    "category": "Technology",
+    "enabled": "true"
   },
   {
     "name": "Engadget",
     "url": "https://www.engadget.com/rss.xml",
-    "category": "Technology"
+    "category": "Technology",
+    "enabled": "true"
   },
   {
     "name": "Lifehacker",
     "url": "https://lifehacker.com/rss",
-    "category": "Technology"
+    "category": "Technology",
+    "enabled": "true"
   },
   {
     "name": "Cult Of Mac",
     "url": "https://www.cultofmac.com/feed/",
-    "category": "Technology"
+    "category": "Technology",
+    "enabled": "true"
   },
   {
     "name": "TechCrunch",
     "url": "https://techcrunch.com/feed/",
-    "category": "Technology"
+    "category": "Technology",
+    "enabled": "true"
   },
   {
     "name": "XDA Developers",
     "url": "https://www.xda-developers.com/feed/",
-    "category": "Technology"
+    "category": "Technology",
+    "enabled": "true"
   },
   {
     "name": "Gizmodo",
     "url": "https://gizmodo.com/rss",
-    "category": "Technology"
+    "category": "Technology",
+    "enabled": "true"
   },
   {
     "name": "Marunadan Malayali",
     "url": "http://fetchrss.com/rss/5966ef008a93f824148b4567519476941.xml",
-    "category": "News"
+    "category": "News",
+    "enabled": "false"
   },
   {
     "name": "Khaleej Times",
     "url": "http://www.khaleejtimes.com/services/rss/uae/rss.xml",
-    "category": "News"
+    "category": "News",
+    "enabled": "false"
   },
   {
     "name": "NDTV Gadgets",
     "url": "http://gadgets.ndtv.com/rss/feeds",
-    "category": "Technology"
+    "category": "Technology",
+    "enabled": "false"
   },
   {
     "name": "CNN Top Stories",
     "url": "http://rss.cnn.com/rss/edition.rss?fmt=xml",
-    "category": "News"
+    "category": "News",
+    "enabled": "true"
   },
   {
     "name": "Hackaday",
     "url": "http://hackaday.com/feed/",
-    "category": "DIY"
+    "category": "DIY",
+    "enabled": "false"
   },
   {
     "name": "How-To Geek",
     "url": "https://www.howtogeek.com/feed/",
-    "category": "DIY"
+    "category": "DIY",
+    "enabled": "true"
   }
 ]
